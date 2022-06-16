@@ -1,0 +1,188 @@
+
+*{
+    margin: 0%;
+    padding-top: 0%;
+    box-sizing: border-box;
+}
+body{
+    padding-top: 12%;
+    background-color: antiquewhite;
+}
+/* div{
+    display: flex;
+    height: 100px;
+    width: 50%; */
+main{
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: white;
+    
+}
+
+
+
+.col-1{
+    background-color: orange;
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+
+.col-2{
+    background-color: rgb(35, 79, 110);
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+}
+
+.col-3{
+    background-color: rgb(12, 65, 51);
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+.icon-1{
+    background-color: orange;
+}
+
+.icon-2{
+    background-color:rgb(35, 79, 110);
+}
+
+.icon-3{
+    background-color: rgb(12, 65, 51);
+}
+
+.header-1{
+    height: 40px;
+    padding-top: 2px;
+    text-decoration-color: white;
+    background-color: orange;
+}
+
+.header-2{
+    height: 40px;
+    padding-top: 2px;
+    text-decoration-color: white;
+    background-color: rgb(35, 79, 110);
+}
+
+.header-3{
+    height: 40px;
+    padding-top: 2px;
+    text-decoration-color: white;
+    background-color: rgb(12, 65, 51);
+}
+
+.text-1{
+    font: color white;
+    height: 70%;
+    background-color: orange
+}
+.text-2{
+    font: color white;
+    height: 70%;
+    background-color:rgb(35, 79, 110)
+}
+
+.text-3{
+    font: color white;
+    height: 70%;
+    background-color:rgb(12, 65, 51)
+}
+.btn-1{
+    border-radius: 25%;
+    border-color: orange;
+    /* border-style: groove; */
+    color:orange;
+    font-size: 20px;
+    
+}
+
+.btn-2{
+    border-radius: 25%;
+    border-color: rgb(35, 79, 110);
+    /* border-style: groove; */
+    color:rgb(35, 79, 110);
+    font-size: 20px;
+}
+
+.btn-3{
+    border-radius: 25%;
+    border-color: rgb(12, 65, 51);
+    /* border-style: groove; */
+    color:rgb(12, 65, 51);
+    font-size: 20px;
+}
+
+/* h3{
+     color: white ; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+/* button{
+    border-radius: 10px;
+    border-color: white;
+} */
+
+.b-color1{
+    color:orange
+}
+.b-color2{
+    color: rgb(35, 79, 110)
+}
+.b-color3:active {
+    background-color:rgb(12, 65, 51)
+}
+.first-design{
+    background-color: orange;
+    color: orange;
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+
+}
+.pb{
+    background-color: orange;
+}
+
+.snd-design{
+background-color: rgb(35, 79, 110);
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+}
+
+.pa{
+    background-color:rgb(35, 79, 110);
+}
+
+/* p{
+    color: white;
+} */
+.third-design{
+    background-color: rgb(12, 65, 51);
+    height: 100%;
+    width: 33%;
+    padding: 32px;
+    font-size: large;
+
+}
+.pc{
+background-color: rgb(12, 65, 51);
+}
